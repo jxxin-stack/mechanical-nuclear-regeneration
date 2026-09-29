@@ -1,0 +1,19 @@
+R (>= 4.4)
+Matrix
+data.table
+ggplot2
+gridExtra
+reshape2
+scran
+scDblFinder
+SingleCellExperiment
+BiocParallel
+irlba
+harmony
+uwot
+pheatmap
+ggrepel
+fgsea
+GenomicRanges
+IRanges
+

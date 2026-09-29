@@ -1,0 +1,43 @@
+# Study data and generated outputs
+data/*
+!data/README.md
+results/*
+!results/.gitkeep
+
+# R and IDE state
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+._*
+*.swp
+
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+
+# Large or derived files
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+*.h5
+*.h5ad
+*.mat
+*.rds
+*.RDS
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.zip
+

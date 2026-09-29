@@ -1,0 +1,8 @@
+Macrophage core
+Reactome: Binding and Uptake of Ligands by Scavenger Receptors
+Reactome: Degradation of the extracellular matrix
+Reactome: Glycosphingolipid catabolism
+Reactome: Iron uptake and transport
+Reactome: Metabolism of fat-soluble vitamins
+Reactome: Peptide ligand-binding receptors
+

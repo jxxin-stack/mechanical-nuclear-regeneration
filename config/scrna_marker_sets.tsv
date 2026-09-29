@@ -1,0 +1,23 @@
+panel	gene
+Monocyte	C5AR1
+Monocyte	FCAR
+Monocyte	S100A8
+Monocyte	S100A9
+Monocyte	VCAN
+Monocyte	CD14
+Monocyte	FCGR3A
+Monocyte	LILRB1
+Monocyte	CTSD
+Monocyte	CSF1R
+cDC2	CD1C
+cDC2	FCER1A
+cDC2	CLEC10A
+cDC2	FCGR2B
+cDC2	IRF4
+cDC2	CD1E
+cDC1	CLEC9A
+cDC1	XCR1
+cDC1	BATF3
+DC3-monocyte overlap	CD163
+DC3-monocyte overlap	CD36
+
